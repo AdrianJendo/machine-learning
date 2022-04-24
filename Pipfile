@@ -10,6 +10,7 @@ sklearn = "*"
 matplotlib = "*"
 tensorflow = "*"
 keras = "*"
+black = "*"
 
 [dev-packages]
 
