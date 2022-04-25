@@ -1,3 +1,5 @@
+# Python
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -10,7 +12,11 @@ __pycache__/
 #   install all needed dependencies.
 #Pipfile.lock
 
-# Environments
-.env
+# Javascript
+node_modules/
+.next/
 
+
+# Misc
+.env
 training_data/
