@@ -1,0 +1,7 @@
+node_modules/
+package*.json
+.next/
+
+# Ignore artifacts:
+build
+coverage
